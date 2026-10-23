@@ -104,4 +104,4 @@ python ADHD_c.py --data /path/to/cerebellum.csv --output outputs/paper
 
 按 [GitHub 发布说明](docs/RELEASING.md) 操作。执行 `python scripts/prepare_release.py` 可生成仅含公开文件的目录和 ZIP；原始本地数据及输出保留在原处。提交问题时请提供脚本、参数、依赖版本和可复现的合成输入，避免粘贴受试者资料。
 
-**许可证尚未选定，当前没有授予开源复用许可。** 发布前由项目权利人确认代码权属并添加许可证。依赖包按各自许可证分发。论文标题、作者和 DOI 尚未在代码中确认，因此本仓库暂不提供虚构的引用条目。
+**依赖包按各自许可证分发。论文标题、作者和 DOI 尚未在代码中确认，因此本仓库暂不提供虚构的引用条目。
