@@ -1,0 +1,3 @@
+# Additional dependency for ADHD_c.py with its default RUN_SHAP=True.
+-r requirements.txt
+shap==0.48.0

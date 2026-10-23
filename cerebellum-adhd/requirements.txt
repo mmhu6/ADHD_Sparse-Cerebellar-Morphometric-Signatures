@@ -1,0 +1,11 @@
+# Python 3.12 reference environment; direct runtime dependencies.
+numpy==2.2.6
+pandas==2.2.3
+scipy==1.15.3
+scikit-learn==1.6.1
+xgboost==3.0.2
+catboost==1.2.8
+matplotlib==3.10.3
+seaborn==0.13.2
+joblib==1.5.1
+imbalanced-learn==0.13.0
